@@ -1,4 +1,5 @@
- ## Junior Software Engineer focused on **AI-powered backend systems**, **distributed architectures**, and **scalable applications**.
+**Junior Software Engineer** 
+Specializing in high-performance backends, distributed architectures, and real-world AI integrations.
 
 ---
 ##  About Me
