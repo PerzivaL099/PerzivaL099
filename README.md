@@ -1,4 +1,4 @@
-**Junior Software Engineer** 
+## **Junior Software Engineer** 
 Specializing in high-performance backends, distributed architectures, and real-world AI integrations.
 
 ---
