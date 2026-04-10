@@ -55,48 +55,32 @@ I build full-stack systems with a strong emphasis on backend performance, databa
 </p>
 
 ---
-
 ## 🚀 Featured Projects
-
 ### 🧠 AI Learning Assistant Platform
-
 * ML-based system for diagnosing student learning paths
 * LLM-powered question generation
 * Dockerized architecture for scalable deployment
 * PostgreSQL backend for high-performance data handling
-
 ### 🏪 Point-of-Sale & Operations System
-
 * Full-stack system for sales + payroll automation
 * Role-Based Access Control (RBAC)
 * Cloud-ready architecture with AWS & Docker
 * Designed for future AI features (OCR, predictive inventory)
-
 ### 📊 DSA Visualizer
-
 * Interactive tool to visualize data structures and algorithms
 * Built with TypeScript for enhanced learning experience
-
 ---
 
 ## 📈 What I'm Focused On
-
 * Designing scalable backend systems
 * Database performance optimization
 * Distributed systems architecture
 * AI + backend integrations
 * System design and real-world engineering problems
-
 ---
-
 ## 📫 Connect With Me
-
 * 📧 [mario152003@gmail.com](mailto:mario152003@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/mario-estrada-sanchez-75698621b/
 * 🌐 GitHub: [https://github.com/PerzivaL099](https://github.com/PerzivaL099)
-
 ---
 
-## ⚡ Fun Fact
-
-I enjoy turning complex system problems into clean, scalable solutions.
