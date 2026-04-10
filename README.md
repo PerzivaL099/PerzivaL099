@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql,react,nodejs,postgres,mysql,aws,docker,git,github,linux" alt="My Tech Stack" />
 </p>
 ---
+
 ## 📬 Connect With Me
 
 [📧 mario152003@gmail.com](mailto:mario152003@gmail.com) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/mario-estrada-sanchez-75698621b/) &nbsp;|&nbsp; [🌐 GitHub](https://github.com/PerzivaL099)
