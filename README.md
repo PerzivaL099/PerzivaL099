@@ -20,21 +20,3 @@ Specializing in high-performance backends, distributed architectures, and real-w
 [📧 mario152003@gmail.com](mailto:mario152003@gmail.com) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/mario-estrada-sanchez-75698621b/) &nbsp;|&nbsp; [🌐 GitHub](https://github.com/PerzivaL099)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🧠 AI Learning Assistant Platform
-* ML-based system for diagnosing student learning paths
-* LLM-powered question generation
-* Dockerized architecture for scalable deployment
-* PostgreSQL backend for high-performance data handling
-
-### 🏪 Point-of-Sale & Operations System
-* Full-stack system for sales + payroll automation
-* Role-Based Access Control (RBAC)
-* Cloud-ready architecture with AWS & Docker
-* Designed for future AI features (OCR, predictive inventory)
-
-### 📊 DSA Visualizer
-* Interactive tool to visualize data structures and algorithms
-* Built with TypeScript for enhanced learning experience
