@@ -7,7 +7,6 @@ Specializing in high-performance backends, distributed architectures, and real-w
 * ☁️ AWS Certified Cloud Practitioner
 * ⚙️ Experience with Dockerized environments & CI/CD workflows
 * 🤖 Interested in AI-integrated systems and intelligent automation
-* 📍 Based in Mexico
 ---
 ## 🛠️ Tech Stack
 <p align="left">
